@@ -1,5 +1,5 @@
 
-pip install kafka-python
+pip install pykafka
 
 zookeeper
 docker create --name zookeeper --network host wurstmeister/zookeeper
